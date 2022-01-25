@@ -1,0 +1,23 @@
+h1{
+    color: red;
+}
+h2{
+    font-style: italic ;
+    color: red;
+}
+ol{
+    color: brown;
+}
+.yel{
+    background-color: yellow ;
+}
+ul{
+    color: brown;
+    letter-spacing: 7px;
+}
+p{
+    color: darkgoldenrod;
+}
+a{
+    color: brown;
+}
